@@ -70,9 +70,6 @@ ai-islam-project/
 ## Contributing
 This project is currently in MVP phase. Contributions, ideas, and feedback are welcome.
 
-## License
-[License Type] - see LICENSE.md for details
-
 ## Contact
 For any queries or suggestions, please reach out to [contact information]
 
